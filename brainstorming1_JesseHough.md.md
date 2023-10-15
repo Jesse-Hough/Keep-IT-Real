@@ -1,7 +1,6 @@
 # Group 14 App Brainstorming List 
 
 ## ***Jesse Hough***
----
 ### **-Spotify**
     
 **Feature 1:** Curated playlists based on mood, activity, and user preferences.
@@ -26,4 +25,106 @@
 
 **Feature 3:** Collection Management - Features to organize, search, and sort the scanned cards. Users might be able to view statistics related to their collection, like percentage of an expansion collected or most valuable cards owned.
 
----
+
+## ***Eric Armas***
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 2 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+
+## ***Austin Anglin***
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 2 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+
+## ***Jennifer Cespedes***
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 2 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+
+## ***Taylor DeMarzo***
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 2 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
+
+### ***App 3 Name***
+
+**Feature 1:**
+
+**Feature 2:**
+
+**Feature 3:**
